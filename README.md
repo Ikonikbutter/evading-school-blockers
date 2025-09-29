@@ -114,5 +114,5 @@ javascript:void function(){(function(){const a=document.createElement("div");a.s
 December 4, 2024
 https://www.google.com
 
-chrome://settings
+https://www.googledrive.com
 
