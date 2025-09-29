@@ -1,2 +1,3 @@
 https://www.duckduckgo.com
 https://untitledproxy.pages.dev
+https://polarchill.org
