@@ -112,3 +112,4 @@ javascript:void function(){(function(){const a=document.createElement("div");a.s
 3. this does bypass extension restrictions, but not wifi restricted sites, if this doesnt work make a proxy.
 
 December 4, 2024
+https://www.google.com
