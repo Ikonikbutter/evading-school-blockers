@@ -3,3 +3,4 @@ https://untitledproxy.pages.dev
 https://polarchill.org
 https://k10.fun
 https://tire-edu.lema.cl
+https://horizon.meta.com/casting
